@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @tkohldesac
 - 👀 I’m interested in Web Develoment
-- 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on very beginner friendly work to help build my portfolio
+- 🌱 I’m currently learning React Native
 - 📫 How to reach me: collaborate@kohldesac.com
 
 <!---
